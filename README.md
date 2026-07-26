@@ -1,1 +1,1 @@
-# insurence-price-prediction
+# Medical-insurance-price-prediction
